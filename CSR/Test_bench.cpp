@@ -65,7 +65,7 @@ int main()
       	 {
       	         cout<<ar_nz[i];
       	 }
-
+        
      //computation of vector of column start pointers.
 
 
@@ -107,7 +107,7 @@ int main()
 
 
 
-
+    //computation of arrays containing values and columns of of non zero elements
 	         for(int i = 0; i < COL_A; i++)
 	         {
 	             for(int j = 0; j < ROW_A; j++)
