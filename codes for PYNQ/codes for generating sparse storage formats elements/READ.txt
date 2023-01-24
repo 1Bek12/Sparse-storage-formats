@@ -1,1 +1,1 @@
-
+This c++ code is used to generate the sparse storage formats elements. For example COO storage format has 3 arrays which are value array, column array and row array. In order to generate this storage format the c++ code is used and the generated arrays are inserted into PYNQ interface as input data. The sparse matrices are converted into storage formats before inserting them into PYNQ interface.
