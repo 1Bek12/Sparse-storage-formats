@@ -1,0 +1,7 @@
+S_60x60
+
+sparsity 60%
+
+non-zero: 1443
+
+ELL max : 36
