@@ -1,0 +1,7 @@
+S_30x30
+
+sparsity 60%
+
+non-zero: 347
+
+ELL max : 19
