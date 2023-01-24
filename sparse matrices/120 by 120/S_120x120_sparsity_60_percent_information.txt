@@ -1,0 +1,7 @@
+S_120x120
+
+sparsity 60%
+
+non-zero: 5879
+
+ELL max : 62
